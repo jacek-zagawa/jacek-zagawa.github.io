@@ -1,14 +1,13 @@
 {
-  "payId": "pay$jacek-zagawa.github.io",
   "addresses": [
     {
       "paymentNetwork": "XRPL",
-      "environment": "TESTNET",
+      "environment": "MAINNET",
       "addressDetailsType": "CryptoAddressDetails",
       "addressDetails": {
-        "address": "raLPjTYeGezfdb6crXZzcC8RkLBEwbBHJ5",
+        "address": "raLPjTYeGezfdb6crXZzcC8RkLBEwbBHJ5"
       }
     }
-  ]
+  ],
+  "payId": "pay$jacek-zagawa.github.io"
 }
-        
