@@ -10,16 +10,5 @@
       }
     }
   ],
-  [
-    {
-      "paymentNetwork": "XRPL",
-      "environment": "MAINNET",
-      "addressDetailsType": "CryptoAddressDetails",
-      "addressDetails": {
-        "address": "rw2ciyaNshpHe7bCHo4bRWq6pqqynnWKQg",
-        "tag": "4034651344"
-      }
-    }
-  ],
   "payId": "pay$jacek-zagawa.github.io"
 }
